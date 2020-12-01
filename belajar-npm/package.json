@@ -1,0 +1,25 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "projek belajar npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodeJs"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "rasdi abdulrohman",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
